@@ -1,1 +1,1 @@
-This is where the things gets interesting
+This is where things gets interesting!
