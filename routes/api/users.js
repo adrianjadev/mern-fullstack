@@ -84,7 +84,7 @@ router.post('/login', (req, res) => {
                 res.json({
                   success: true,
                   token: 'Bearer ' + token
-                });
+                }); // This is a test comment
             });
           } else {
             return res.status(400).json({password: 'Password incorrect'});
